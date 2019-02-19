@@ -1,0 +1,36 @@
+    Scéna 1
+        Adam (rozhořčeně): 
+        A hodst! Ven. Jak můžeš bejt tak blbá a říct, že jsem si měl najít lepší práci? Jak jsem to měl kurva vědět? Před I-volucí jsem byl špičkovej doktor a dřel jsem abych toho dosáhnul, tak teď mi neříkej, že nic nezvládnu. Myslíš že se na mě můžeš povyšovat, jen protože ti školu ještě nezavřeli? 
+        -
+        Já ti dám líný prase. Co bych měl asi dělat ty blbá krávo. 
+        -
+        Já za to nemůžu! (práskne dveřmi, vezme kus dámskáho oblečení z věšáku a praští s ním o zem, jde se posadit do křesla)
+        Zvonek -cCRRRR
+        Zet: Dobrý den, zásilka. Automaton.
+        Adam: Jestli nemáte alkohol, tak nemám zájem.
+        Zet: Dobrá. 
+        Adam: žertuju pojďte nahoru...haló
+        
+        Zvonek -cCRRRR
+        Zet: Dobrý den, zásilka. Automaton.
+        Adam: Jojo, hoďtě mi to so předsíně. (pro sebe) roboti zatracený.
+        Z PŘIJDE DO ROHU POKOJE S FLAŠKOU JACKA V RUCE ADAM SI HO VŠIMNE AŽ PO CHVÍLI
+        Adam: Co ještě potřebuješ?
+        Zet: Společnost Aplo Vám chce poděkovat za Vaše služby pro společnost a to především za data a poznatky užívané naším algoritmem. 
+        Adam: Děkujeme, že jste připravil o práci. (sarkasticky napodobuje hlas robota)
+        Zet - pokračuje: z tohoto důvodu Vám Společnost Aplo zasílá poslední model osobního pomocníka. Model Z. Mě.
+        Adam (odmlčí se): co cože? jako jen tak? 
+        Zet: Za vaše zásluhy, včetně doživotní licence na bezplatný upgrade.
+        Adam: Vdyť by něco takového stálo majlant. (vstane a jde za Zetem)
+        Zet: Model Z ještě není veřejně dostupný, ale cena takového balíčku se odhaduje na 0,357931 bitcoinů.
+        Adam: No do prdele.
+        Zet: Přejete si abych s Vámi prošel své základní nastavení a funcionality?
+        Adam (podívá se na flašku v Zetově ruce): Hele Ne, můžeme to nechat na zítra? Dnes toho bylo nějak moc.
+        Zet: Pro uspání použijte slova DOBROU NOC.
+        Adam: Dobrou noc.(Zet se uspí a Adam mu vytrhne Jacka z ruky, otevřeho a jde si lehnout)
+        
+        Tma
+        
+    Scéna 2
+        
+        
